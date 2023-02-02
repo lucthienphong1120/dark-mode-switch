@@ -10,9 +10,9 @@ Switching to dark mode is done by toggling HTML tags that includes `-dark` or `-
 
 ## Installing
 
-- Download the latest release [v0.1.4](https://github.com/han109k/light-switch-bootstrap/archive/refs/tags/v0.1.4.zip)
+- Download the latest release [v0.1.4](https://github.com/lucthienphong1120/dark-mode-switch/)
 
-- Clone via `git clone https://github.com/han109k/light-switch-bootstrap.git`
+- Clone via `git clone https://github.com/lucthienphong1120/dark-mode-switch.git`
 - Install with [npm](https://www.npmjs.com/package/light-switch-bootstrap) `npm i light-switch-bootstrap`
 
 ## Usage
@@ -34,4 +34,4 @@ Designed for the plain Bootstrap 5 theme. If you're using custom themes then, yo
 
 ## Example Implementation
 
-[Bootstrap 5 Demo](https://han109k.github.io/light-switch-bootstrap/)
+[Bootstrap 5 Demo](https://lucthienphong1120.github.io/dark-mode-switch/)
