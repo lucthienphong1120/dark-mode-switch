@@ -20,9 +20,12 @@ Switching to dark mode is done by toggling HTML tags that includes `-dark` or `-
 Add custom checkbox to your html file then reference the `switch.js` script:
 
 ```html
-<div class="form-check form-switch">
-  <label class="form-check-label" for="lightSwitch"> Dark Mode </label>
-  <input class="form-check-input" type="checkbox" id="lightSwitch" />
+<div class="form-check form-switch ms-auto mt-3 me-3" id="formSwitch">
+    <label class="form-check-label ms-3" for="inputSwicher">
+        <i class="fas fa-sun light-mode"></i>
+        <i class="fas fa-moon dark-mode d-none"></i>
+        </label>
+    <input class="form-check-input" type="checkbox" id="inputSwicher" />
 </div>
 
 <script src="switch.js" />
