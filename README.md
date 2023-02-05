@@ -28,7 +28,7 @@ Add custom checkbox to your html file then reference the `switch.js` script:
     <input class="form-check-input" type="checkbox" id="inputSwicher" />
 </div>
 
-<script src="switch.js" />
+<script src="dark-mode-switch.js" />
 ```
 
 ### About Usage
